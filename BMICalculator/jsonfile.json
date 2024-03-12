@@ -1,0 +1,29 @@
+{
+
+  "bmis": [
+    {
+      "BMI": "< 18.5",
+      "Classification": "Underweight"
+    },
+    {
+      "BMI": "18.5 - 24.9",
+      "Classification": "Normal"
+    },
+    {
+      "BMI": "25 - 29.9",
+      "Classification": "Over Weight"
+    },
+    {
+      "BMI": "30 - 34.9",
+      "Classification": "Obesity (Class I)"
+    },
+    {
+      "BMI": "35 - 39.9",
+      "Classification": "Obesity (Class II)"
+    },
+    {
+      "BMI": "> 40",
+      "Classification": "Extreme Obesity"
+    }
+  ]
+}
